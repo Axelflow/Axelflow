@@ -1,3 +1,3 @@
 # The Homepage for the coolest person on Earth
-## That's a lofty claim, I know, but I can prove it
-[Example] [
+I know that's a lofty claim, one might even say a ridiculous one, but I've got the evidence. 
+
